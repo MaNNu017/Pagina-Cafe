@@ -5,7 +5,7 @@
 * 49693 - Coccoz, Manuel
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app]([http://hyperlinkToGihubOrGitlab](https://github.com/MaNNu017/fullstack-app))
 * [backend app](http://hyperlinkToGihubOrGitlab)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
