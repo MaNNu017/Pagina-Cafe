@@ -11,7 +11,7 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+Pagina web de un cafe online, donde los clientes pueden ver todos los productos disponibles, y hacer un pedido para entrega a domicilio.
 
 ### Modelo
 ![imagen del modelo]()
