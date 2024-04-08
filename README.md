@@ -9,7 +9,7 @@
 
 ## Tema
 ### Descripción
-Pagina web de un cafe online, donde los clientes pueden ver todos los productos disponibles, y hacer un pedido para entrega a domicilio.
+Pagina web de un cafe online, donde los usuarios/clientes podran ver todos los productos disponibles para la venta, agregar productos al carrito y hacer pedidos online para entrega a domicilio.
 
 ### Modelo
 ![imagen del modelo]()
