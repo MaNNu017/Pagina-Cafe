@@ -9,7 +9,7 @@
 
 ## Tema
 ### Descripción
-Pagina web de un cafe online, donde los usuarios/clientes podran ver todos los productos disponibles para la venta, agregar productos al carrito y hacer pedidos online para entrega a domicilio.
+Pagina web de una cafetería online, donde los usuarios/clientes podran ver todos los productos disponibles para la venta, agregar productos al carrito y hacer pedidos online para entrega a domicilio.
 
 ### Modelo
 ![imagen del modelo](https://github.com/MaNNu017/Pagina-Cafe/blob/main/modelocafe.png)
