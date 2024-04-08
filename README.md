@@ -23,10 +23,10 @@ Pagina web de un cafe online, donde los usuarios/clientes podran ver todos los p
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Habitacion<br>|
-|CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
+|CRUD simple|1. CRUD Tipo Pedido<br>|
+|CRUD dependiente|1. CRUD Producto {depende de} CRUD Tipo Categoría|
+|Listado<br>+<br>detalle| 1. Listado de productos filtrado por categoría del producto  => detalle CRUD Producto<br> |
+|CUU/Epic|1. Realizar una compra de productos|
 
 
 Adicionales para Aprobación
