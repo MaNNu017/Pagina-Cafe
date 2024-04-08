@@ -33,6 +33,6 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Tipo Pedido<br>2. CRUD Producto<br>3. CRUD Categoría<br>4. CRUD Reseña<br>5. CRUD Carrito<br>6. CRUD Usuario<br>7. CRUD Contacto<br>8. CRUD Método de pago|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CUU/Epic|1. |
 
 
