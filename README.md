@@ -14,13 +14,11 @@ Pagina web de un cafe online, donde los usuarios/clientes podran ver todos los p
 ### Modelo
 ![imagen del modelo](https://github.com/MaNNu017/Pagina-Cafe/blob/main/modelocafe.png)
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
-
 ## Alcance Funcional 
 
 ### Alcance Mínimo
 
-*Nota*: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El 
+*Nota*: el siguiente es un ejemplo para un grupo de 1 integrante para un sistema de cafeteria.  
 
 Regularidad:
 |Req|Detalle|
