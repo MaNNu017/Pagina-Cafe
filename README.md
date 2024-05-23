@@ -23,7 +23,7 @@ Pagina web de una cafetería online, donde los usuarios/clientes podran ver todo
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Pedido<br>|
+|CRUD simple|1. CRUD Tipo Producto<br>|
 |CRUD dependiente|1. CRUD Producto {depende de} CRUD Tipo Categoría|
 |Listado<br>+<br>detalle| 1. Listado de productos filtrado por categoría del producto  => detalle CRUD Producto<br> |
 |CUU/Epic|1. Realizar una compra de productos|
